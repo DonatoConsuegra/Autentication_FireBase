@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096827512039",
+    "project_id": "autenticacion-firebase-188fa",
+    "storage_bucket": "autenticacion-firebase-188fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096827512039:android:356514baafd911eb9c6e42",
+        "android_client_info": {
+          "package_name": "com.example.myapplication_autenticacion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fVN--ztcCb8PrNibG8FqvnuooB8wgL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
